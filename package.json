@@ -11,9 +11,11 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "axios": "^1.11.0",
     "cors": "^2.8.5",
     "csv-parser": "^3.2.0",
     "express": "^5.1.0",
+    "nodemon": "^3.1.10",
     "sqlite3": "^5.1.7"
   }
 }
